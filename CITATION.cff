@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper and this repository."
+title: "Cholinesterase QSAR Ensemble Learning Pipeline"
+authors:
+  - family-names: Ahmad
+    given-names: Bilal
+year: 2026
+license: MIT
+version: 0.1.0

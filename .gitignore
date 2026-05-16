@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+.env
+.venv/
+env/
+venv/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Data and generated artifacts
+# Keep folder structure but do not commit private datasets/results unless intended.
+data/raw/*
+data/external/*
+results/*
+figures/*
+models/*
+!data/raw/.gitkeep
+!data/external/.gitkeep
+!results/.gitkeep
+!figures/.gitkeep
+!models/.gitkeep
